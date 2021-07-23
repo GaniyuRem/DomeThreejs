@@ -1,1 +1,1 @@
-# Three.js-dome-of-the-rock
+# DomeThreejs
